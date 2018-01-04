@@ -1,0 +1,3 @@
+[submodule "res/anderlyne"]
+	path = res/anderlyne
+	url = git@github.com:KangZiRu/anderlyne.git

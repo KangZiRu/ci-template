@@ -1,0 +1,3 @@
+# ci-template
+
+CodeIgniter Template

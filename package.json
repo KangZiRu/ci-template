@@ -1,0 +1,23 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp js jsx stylus"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-run": "^1.7.1"
+  },
+  "dependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
