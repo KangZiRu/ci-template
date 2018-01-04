@@ -1,11 +1,11 @@
 {
-  "name": "restaurant",
+  "name": "codeigniter-webapp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "gulp watch",
-    "build": "gulp js jsx stylus"
+    "build": "gulp js stylus"
   },
   "keywords": [],
   "author": "",
@@ -13,11 +13,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
-    "gulp-stylus": "^2.6.0",
-    "gulp-run": "^1.7.1"
+    "gulp-stylus": "^2.6.0"
   },
   "dependencies": {
-    "eslint": "^4.3.0",
-    "eslint-plugin-react": "^7.1.0"
+    "eslint": "^4.3.0"
   }
 }
